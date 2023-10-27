@@ -1,0 +1,2 @@
+alert("Voce é Pobre!")
+
