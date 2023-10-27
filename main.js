@@ -1,2 +1,2 @@
-alert("Voce é Pobre!");
+alert("SIGA OS SEUS SONHOS!");
 
