@@ -1,2 +1,0 @@
-alert("Voce é Pobre!")
-
